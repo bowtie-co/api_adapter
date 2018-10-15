@@ -1,6 +1,9 @@
 # frozen_string_literal: true
 
 require 'json'
+require 'rest-client'
+require 'active_support'
+require 'active_support/core_ext'
 
 ##
 # Base API class
